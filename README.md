@@ -4,10 +4,10 @@
 keep in mind we are not allowed to remove or turn off any ports or serveices that would cause the other team to not be able to reach it, however restarting the service is only allowed if services needs to be restarted for updating
 
 ## dont forget 
-dont forget to google
-dont forget to check what is locally installed, linux tool wise
-dont forget to make sure you have a system montior up
-dont forget to make sure you have event veiwers up
+- dont forget to google
+- dont forget to check what is locally installed, linux tool wise
+- dont forget to make sure you have a system montior up
+- dont forget to make sure you have event veiwers up
 
 
 
