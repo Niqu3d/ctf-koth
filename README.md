@@ -1,6 +1,4 @@
 # ctf-koth
-This is my basic cheatsheet for Koth 
-
 
 ### Things to do at the start
 keep in mind we are not allowed to remove or turn off any ports or serveices that would cause the other team to not be able to reach it, however restarting the service is only allowed if services needs to be restarted for updating
