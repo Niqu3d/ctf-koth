@@ -78,9 +78,34 @@ add '?pretty' at the end to make it easier to read
 
 
 ## Kibana tips
-KQL help
 
-
+Windows event log ids
+``` 
+4624 - sucessful login
+4625 - login failed
+4325 - user logoff
+4646 - IKE Dos-prevention mode started
+4648 - login was attemped using explicit credentials
+4649 - a reply attack detected
+4697 - a service was installed
+4688 - a new process was created 
+4720 - user account created
+4722 - user account enabled
+4723 - password change attempt
+4724 - user account password set
+4725 - user account disabled
+4726 - user account deleted
+4732 - local user account created
+4738 - user account chaged
+4739 - GPO changed
+4740 - user account locked out
+4767 - user account unlocked
+4768 - kerberos TGT was requested
+4771 - kerberos preauth failed
+4722 - kerberos TGT request failed
+6005 - event log was started
+6006 - event log stopped
+1102 - audit log was cleared
 
 
 # Extra Resources
