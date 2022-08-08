@@ -106,7 +106,7 @@ Windows event log ids
 6005 - event log was started
 6006 - event log stopped
 1102 - audit log was cleared
-
+```
 
 # Extra Resources
 Links to useful other github resources 
