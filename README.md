@@ -12,6 +12,7 @@ dont forget to google
 - [Blue Team](#blue-team)
 - [Elastic tips](#elastic-tips)
 - [Kibana tips](#kibana-tips)
+- [cheetsheets](https://github.com/Niqu3d/ctf-koth/tree/main/cheatsheets)
 - [Extra Resources](#extra-resources)
 
 # Recon
